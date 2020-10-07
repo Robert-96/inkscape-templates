@@ -2,7 +2,7 @@
 
 A collection of templates for Inkscape.
 
-## Create a new template to Inkscape
+## Create a new template
 
 > **Note**: This method works only if you’re using Inkscape version 1.0 or later.
 
