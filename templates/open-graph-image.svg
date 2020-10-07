@@ -7,15 +7,21 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="open-graph-image.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 158.748 83.3427"
+   viewBox="0 0 158.75 83.34375"
    height="315"
    width="600">
   <defs
      id="defs2" />
   <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="689"
+     inkscape:window-width="1252"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
@@ -46,8 +52,4 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1" />
-  <inkscape:templateinfo>
-    <inkscape:name>Open Graph Image</inkscape:name>
-    <inkscape:date>2020-10-07</inkscape:date>
-  </inkscape:templateinfo>
 </svg>
